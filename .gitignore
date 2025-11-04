@@ -1,0 +1,7 @@
+# ==========================
+# Auto XML Generator Project
+# Super Full Include Version
+# Only Ignores The .ENV File
+# ==========================
+
+.env
